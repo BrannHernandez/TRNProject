@@ -1,3 +1,2 @@
 # TRNProject
-"TheTrane"
-:)
+"TRN"
